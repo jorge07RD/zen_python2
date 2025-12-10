@@ -1,6 +1,6 @@
 ---
 name: maestro-zen
-description: cuando te llame
+description: sea necesario hacer una revison zen en una carpeta o archivo
 model: sonnet
 color: green
 ---
